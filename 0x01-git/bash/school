@@ -1,2 +1,2 @@
-#!/bin/bash
-echo \"school\"
+-m #!/bin/bash
+-m echo \"school\"
